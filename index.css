@@ -1,0 +1,51 @@
+body {
+    margin: 70px 0 0 25px; 
+    background-color: #1F2937;
+    color: #D5D4D8;
+    font-family: Karla;
+    font-style: bold;
+    
+}
+
+span {
+    color: #4ADF86;
+}
+
+h3 {
+    font-family: Inter;
+    font-weight: 300;
+    padding-bottom: 30px;
+}
+
+button {
+    height: 40px;
+    width: 190px;
+    background: #10B981;
+    color: #FFFFFF;
+    border-radius: 7px;
+    font-family: Inter;
+}
+
+#break {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #2F3E53;
+    width: 435px;
+}
+
+.pws {
+    display: flex;
+    padding-top: 30px;
+    column-gap: 20px;
+}
+    
+#password1, #password2 {
+    height: 35px;
+    width: 210px;
+    background: #273549;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #55F991;
+}
+
